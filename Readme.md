@@ -12,8 +12,14 @@ The Pix2Pix GAN is a general approach for image-to-image translation. It is base
 ## Pix2Pix 
 ---
 
-<img src = "Images/pix.png" style="width:50%" align="left">
+<img src = "Images/pix.png"  style = "display: block;
+  margin-left: auto;
+  margin-right: auto;">
 
+
+
+
+<br> <br> <br>
 
 ~~~
 
@@ -34,7 +40,3 @@ class Pix2Pix(nn.Module):
 
 
 ~~~
-
-
-<br> <br> <br>
-
